@@ -1,0 +1,9 @@
+C:\Users\ADMLab-Public\Documents\Visual Studio 2013\Projects\intralattice-0.7.6-beta\src\IntraLattice\bin\IntraLattice.dll
+C:\Users\ADMLab-Public\Documents\Visual Studio 2013\Projects\intralattice-0.7.6-beta\src\IntraLattice\bin\IntraLattice.pdb
+C:\Users\ADMLab-Public\Documents\Visual Studio 2013\Projects\intralattice-0.7.6-beta\src\IntraLattice\bin\Surface.dll
+C:\Users\ADMLab-Public\Documents\Visual Studio 2013\Projects\intralattice-0.7.6-beta\src\IntraLattice\bin\Triangulation.dll
+C:\Users\ADMLab-Public\Documents\Visual Studio 2013\Projects\intralattice-0.7.6-beta\src\IntraLattice\obj\Debug32\IntraLattice.Properties.Resources.resources
+C:\Users\ADMLab-Public\Documents\Visual Studio 2013\Projects\intralattice-0.7.6-beta\src\IntraLattice\obj\Debug32\IntraLattice WORKING COPY.csproj.GenerateResource.Cache
+C:\Users\ADMLab-Public\Documents\Visual Studio 2013\Projects\intralattice-0.7.6-beta\src\IntraLattice\obj\Debug32\IntraLattice.dll
+C:\Users\ADMLab-Public\Documents\Visual Studio 2013\Projects\intralattice-0.7.6-beta\src\IntraLattice\obj\Debug32\IntraLattice.pdb
+C:\Users\ADMLab-Public\Documents\Visual Studio 2013\Projects\intralattice-0.7.6-beta\src\IntraLattice\obj\Debug32\IntraLattice WORKING COPY.csprojResolveAssemblyReference.cache
